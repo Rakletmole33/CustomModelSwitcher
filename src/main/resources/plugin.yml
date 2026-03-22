@@ -1,0 +1,9 @@
+name: CustomModelSwitcher
+version: '1.0-SNAPSHOT'
+main: org.github.rakletmole33.customModelSwitcher.Main
+api-version: '1.21'
+
+commands:
+  cms:
+    usage: /<command>
+    description: CustomModelDataを変更します！
